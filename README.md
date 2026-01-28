@@ -44,7 +44,7 @@ User_Workspace/              <-- Root workspace folder
 ## Installation
 ### 1. Clone the repository:
 ```
-
+git clone https://github.com/NieHX/csdd_yolov8_task.git
 ```
 ### 2. Install dependencies:
 ```
