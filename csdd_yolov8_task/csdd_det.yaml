@@ -1,0 +1,8 @@
+﻿path: your_det_dataset_path
+train: images/train2017
+val: images/val2017
+test: images/test2017
+names:
+  0: Scratch
+  1: Spot
+  2: Rust
