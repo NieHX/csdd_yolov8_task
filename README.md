@@ -107,6 +107,6 @@ python src/predict_vis.py --task det --weights <path_to_best.pt> --source <image
 python src/predict_vis.py --task seg --weights <path_to_best.pt> --source <image_or_dir> --limit 6
 ```
 ## Output
-All training and inference results are saved in the ```runs/``` directory by default:
-Training：```runs/csdd_det/```or```runs/csdd_seg/```  
-Evaluation：```runs/detect/```
+All training and inference results are saved in the ```runs/``` directory by default:   
+Training：```runs/csdd_det/```or```runs/csdd_seg/```      
+Evaluation：```runs/detect/```    
